@@ -17,7 +17,7 @@ For students, follow these steps:
 #### My details:
 
 - Excercise: HW4 - TDD
-- Name:Natalia   
+- Name:Natalia Motov 
 - ID#:327443446
 - github username: hamuda8989
 - Estimation of hours I worked on it: 5 hours
