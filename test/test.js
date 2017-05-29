@@ -1,7 +1,7 @@
 var assert = require("assert"); // core module
 var C = require('../cash.js');  // our module
 
-//1 test
+//1 test   
 describe('Cash Register', function(){
   describe('Module C', function(){
     it('should have a getChange Method', function(){
