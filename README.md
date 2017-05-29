@@ -17,10 +17,10 @@ For students, follow these steps:
 #### My details:
 
 - Excercise: HW4 - TDD
-- Name:  
-- ID#:
-- github username: 
-- Estimation of hours I worked on it: 
+- Name:Natalia   
+- ID#:327443446
+- github username: hamuda8989
+- Estimation of hours I worked on it: 5 hours
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
@@ -450,7 +450,7 @@ Commit the report, as well.
 For more details concerning Travis CI check out the tutorial:
 https://github.com/dwyl/learn-travis
 
-> Visit: https://travis-ci.org/profile
+> Visit: https://travis-ci.org/profile/hamuda8989
 > Enable Travis for your project
 
 ![Travis Enabled](https://raw.github.com/jce-il/learn-mocha/master/images/travis-on.png "Travis Enabled")
